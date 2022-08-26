@@ -19,7 +19,7 @@ $produtos=array(
         "descricao"=>"nada por enquanto",
     ),
     3=>array(
-        "nome"=>"Brownie petralha",
+        "nome"=>"Brownie do pt",
         "link"=>"produtos/brownie comunista.jpg",
         "preco"=>"R$13.00",
         "descricao"=>"nada por enquanto",

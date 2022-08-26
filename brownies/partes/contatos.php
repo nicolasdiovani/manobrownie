@@ -10,8 +10,7 @@ include_once 'assets/header.php';
 ?> 
 <main>
     <article id="arti">
-        <img src="imagens/contato2.png" id="banner-contato">
-        <div id="bnt">
+        <div id="bnt" style="margin-top:50px;margin-bottom:50px;">
         <h2>Me contate:</h2>
         <form action="recebe-contato.php" method="GET" >
         <input type="text" placeholder="nome completo" name="nome">

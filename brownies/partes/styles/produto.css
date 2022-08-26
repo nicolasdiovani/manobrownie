@@ -16,7 +16,7 @@ article img{
 }
 article h2{
     margin-top: 30px;
-    font-size: 60px;
+    font-size: 50px;
     width: 40%;
     margin-left: 5%;
     display: inline-block;
@@ -33,7 +33,7 @@ article p{
     font-size: 25px;
     margin-top:10px;
     display: inline-block;
-    width: 35%;
+    width: 39%;
     margin-left: 6%;
 }
 button{
