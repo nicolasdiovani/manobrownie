@@ -4,36 +4,43 @@ $produtos=array(
         "nome"=>"Brownie classic",
         "link"=>"produtos/brownie.png",
         "preco"=>"R$5.00",
+        "descricao"=>"nada por enquanto",
     ),
     1=>array(
         "nome"=>"Brownie branco",
         "link"=>"produtos/brownie branco.webp",
-        "preco"=>"R$5.00"
+        "preco"=>"R$5.00",
+        "descricao"=>"nada por enquanto",
     ),
     2=>array(
         "nome"=>"Bolsobrownie",
         "link"=>"produtos/brownie do mito.jpg",
-        "preco"=>"R$22.00"
+        "preco"=>"R$22.00",
+        "descricao"=>"nada por enquanto",
     ),
     3=>array(
         "nome"=>"Brownie petralha",
         "link"=>"produtos/brownie comunista.jpg",
-        "preco"=>"R$13.00"
+        "preco"=>"R$13.00",
+        "descricao"=>"nada por enquanto",
     ),
     4=>array(
         "nome"=>"Brownie salgado",
         "link"=>"produtos/brownie de whey.jpg",
-        "preco"=>"R$10.00"
+        "preco"=>"R$10.00",
+        "descricao"=>"nada por enquanto",
     ),
     5=>array(
         "nome"=>"Browlinux",
         "link"=>"produtos/brownie de ortela.webp",
-        "preco"=>"R$8.00"
+        "preco"=>"R$8.00",
+        "descricao"=>"nada por enquanto",
     ),
     6=>array(
         "nome"=>"Brownie do ciro",
         "link"=>"produtos/cirobrownies.png",
-        "preco"=>"R$12.00"
+        "preco"=>"R$12.00",
+        "descricao"=>"nada por enquanto",
     ),
     7=>array(
         "nome"=>"Brownie sagrado",
@@ -43,7 +50,8 @@ $produtos=array(
     8=>array(
         "nome"=>"Brownie capeta",
         "link"=>"produtos/capeta.PNG",
-        "preco"=>"R$666.00"
+        "preco"=>"R$666.00",
+        "descricao"=>"nada por enquanto",
     )
     );
 $categorias=array(
