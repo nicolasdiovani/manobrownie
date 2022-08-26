@@ -11,6 +11,7 @@ include_once 'head.php';
             <a href="produtos.php"><li>produtos</li></a>
             <a href="contatos.php"><li>contatos</li></a>
             <a href="login.php"><li>login</li></a>
+            <a href="cadastro.php"><li>cadastro</li></a>
         </ul>
     </nav>
 </div>    
